@@ -36,10 +36,10 @@ function Home() {
         style={slideInLeft}
         className="text-5xl font-bold mt-8 mb-4 text-center"
       >
-        Hi, I'm Dilkash Sahota. Also known as Dily.
+        Hi, Im Dilkash Sahota. Also known as Dily.
       </animated.h1>
       <animated.p style={slideInRight} className="text-2xl mb-8 text-center">
-        I'm a Full Stack Developer and Computer Science student.
+        Im a Full Stack Developer and Computer Science student.
       </animated.p>
       <animated.p style={fadeIn} className="text-2xl mb-8 text-center">
         Check out my projects on{" "}

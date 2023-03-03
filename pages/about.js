@@ -18,13 +18,13 @@ function About() {
       <animated.div style={fade} className="bg-white p-8 rounded-md shadow-lg">
         <h1 className="text-4xl font-bold mb-4 text-black">About Me</h1>
         <p className="text-lg mb-8 text-black">
-          Hi there! My name is Dily, and I'm a Full Stack developer based in the
+          Hi there! My name is Dily, and Im a Full Stack developer based in the
           UK. I have a passion for building beautiful and functional websites
-          and applications that make people's lives easier.
+          and applications that make peoples lives easier.
         </p>
         <p className="text-lg mb-8 text-black">
           I have experience working with various technologies, including Java,
-          C/C++, Haskell, Python, JavaScript, and Git. I'm constantly learning
+          C/C++, Haskell, Python, JavaScript, and Git. Im constantly learning
           and experimenting with new tools and techniques and am always excited
           to take on new challenges.
         </p>
